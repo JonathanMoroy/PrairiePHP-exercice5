@@ -1,7 +1,7 @@
 <?php
-function dbz($ssj, $ssj2)
+function dbz($chaine1, $chaine2)
 {
-  return ($ssj.$ssj2);
+  return ($chaine1.$chaine2);
 }
 $ssj = "Vegeta";
 $ssj2 = "Goku";
